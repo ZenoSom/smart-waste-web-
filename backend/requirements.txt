@@ -1,0 +1,5 @@
+fastapi==0.95.2
+uvicorn==0.22.0
+pillow==10.0.1
+numpy==1.25.0
+tensorflow==2.12.0
